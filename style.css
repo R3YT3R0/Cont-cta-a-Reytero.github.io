@@ -1,0 +1,134 @@
+body{
+          background-color:gray;
+}
+
+
+ h1{
+          background-color: white;
+          margin-left: 75px;
+          margin-right:75px;
+          text-align: center;
+          border: 3px black solid;
+}
+
+.formulario button{
+          margin-left: 20px;
+          margin-right:20px ;
+          margin-bottom: 20px;
+          margin-top: 15px;
+          font-size: 18px;
+}
+
+.Form{
+          background-color: rgb(70, 65, 65);
+          border-radius: 15px;
+          border-style:solid;
+          border-color:black;
+          margin-left: 90px;
+          margin-right: 90px;
+
+}
+
+.formulario{
+          display: flex;
+          flex-direction: column;
+          background: #ffffff;  
+          margin: 0 auto;
+          padding: 30px;         
+           font-size:35px;        
+          border-radius: 15px;
+          margin: 20px;
+
+}
+.formulario input{
+          font-size: 20px; 
+          display: flex;
+          margin-top: 8px;
+          flex-direction:column;
+          justify-content: center;
+          
+}
+.Discord{
+          display: block;
+          flex-direction: row;
+          background-color:rgb(70, 65, 65);
+          border-color:black;
+          border-radius: 15px;
+          border-style:solid;
+          padding: 26px;
+          margin-top: 20px;
+          margin-left: 90px;
+          margin-right: 90px;
+}
+.discord-content {
+         display: block;
+          background-color: rgb(88, 101, 242);
+          margin: 0 auto;
+          padding: 16px;
+          border: 3px black solid;
+          font-family: Arial, Helvetica, sans-serif;
+}
+.discord-content p{
+          text-align: center;
+          border-radius: 5px;
+          border-style:groove;
+          border-color: black;
+          margin-left:90px;
+          margin-right: 90px;
+}
+.discord-content a{
+          text-decoration: none;
+          color: white;
+          font-size: 25px;
+          align-self: center;
+            padding: 10px;
+}
+.discord-content a:hover{
+          color: black;
+}
+.Twitter{
+          display: block;
+          flex-direction: row;
+          background-color:rgb(70, 65, 65);
+          border-color:black;
+          border-radius: 15px;
+          border-style:solid;
+          padding: 26px;
+          margin-top: 20px;
+          margin-left: 90px;
+          margin-right: 90px;
+}
+.Twitter-content {
+         display: block;
+          background-color: rgb(29, 155, 240);
+          margin: 0 auto;
+          padding: 20px;
+          border: 3px black solid;
+          font-family: Arial, Helvetica, sans-serif;
+}
+.Twitter-content p{
+          text-align: center;
+          border-radius: 5px;
+          border-style:groove;
+          border-color: black;
+          margin-left:90px;
+          margin-right: 90px;
+}
+.Twitter-content a{
+          text-decoration: none;
+          color: white;
+          font-size: 25px;
+          align-self: center;
+            padding: 10px;
+}
+.Twitter-content img{
+          background-color: white;
+          border-radius: 10px;
+          padding: 20px;
+          margin: 10px;
+          border: black solid 2px;
+}
+.Twitter-content a:hover{
+          color: black;
+}
+
